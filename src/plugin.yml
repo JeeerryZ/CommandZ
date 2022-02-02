@@ -1,0 +1,9 @@
+name: CommandZ
+sdepend: [Vault]
+description: CommandZ
+author: JerryZ
+version: 1.0
+main: me.jerryz.commandz.CommandZ
+commands:
+    cmdz:
+        description: Use /cmdz resetall <nomeDoComando> ou /cmdz reset <nomeDoComando> <nomeDoJogador>
